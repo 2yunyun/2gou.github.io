@@ -1,17 +1,527 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-13T15:41:13+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/03/09/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-03-09T17:50:26+08:00</published><updated>2020-03-09T17:50:26+08:00</updated><id>http://localhost:4000/jekyll/update/2020/03/09/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/03/09/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-13T17:04:24+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">2云随笔</title><subtitle>记录美好记录美好记录美好记录美好记录美好记录美好记录美好记录美好记录美好。</subtitle><entry><title type="html">3.5-3.13工作总结</title><link href="http://localhost:4000/%E5%BC%A0%E4%BA%91/2020/03/13/workSummarymarkdown.html" rel="alternate" type="text/html" title="3.5-3.13工作总结" /><published>2020-03-13T16:12:26+08:00</published><updated>2020-03-13T16:12:26+08:00</updated><id>http://localhost:4000/%E5%BC%A0%E4%BA%91/2020/03/13/workSummarymarkdown</id><content type="html" xml:base="http://localhost:4000/%E5%BC%A0%E4%BA%91/2020/03/13/workSummarymarkdown.html">&lt;h4 id=&quot;本周实为技术提升为疫情结束后工作做准备提高工作效率&quot;&gt;本周实为技术提升，为疫情结束后工作做准备，提高工作效率。&lt;/h4&gt;
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&quot;工作任务&quot;&gt;工作任务&lt;/h3&gt;
 
-&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;编写前端开发规范文档；&lt;/li&gt;
+  &lt;li&gt;开发多终端自适应网站模板
+    &lt;ul&gt;
+      &lt;li&gt;一套官网模版；&lt;/li&gt;
+      &lt;li&gt;两套后台管理系统模版。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;官网模版&quot;&gt;官网模版&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;H5网站，全屏滚动，风格大气。&lt;/li&gt;
+  &lt;li&gt;主要用做公司门户，它是我们企业的形象代表，是我们产品的实力体现。&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;大家想了解一个公司的情况，会打开搜索引擎去搜索这个公司名称，看看他们网站介绍，所以官网其实就是我们的电子名片，俗话说，人靠衣装马靠鞍，而我们企业给用户的第一感官其实就在官网。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;目前暂未填充详细内容，待后续完善。&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;h3 id=&quot;后台管理系统模版&quot;&gt;后台管理系统模版&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;一套使用vue框架，适用于较大数据量业务场景，工程化开发，数据双向绑定；
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/2yunyun/yxsj_vueAdminSys&quot;&gt;vue后台管理系统&lt;/a&gt;，下载压缩包访问。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;一套使用bootstrap框架，适用于任何场景，使用gulp自动化构建工具编译，开发效率高。
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/2yunyun/yxsj_panelAdminSys&quot;&gt;bootstrap后台管理系统&lt;/a&gt;，下载压缩包访问。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;后续根据实际业务需求，按需选用，灵活高效。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;结语&quot;&gt;结语&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;本周工作非常充实，开发过程中，前端小组全面提升。&lt;/li&gt;
+  &lt;li&gt;下周继续努力！&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">本周实为技术提升，为疫情结束后工作做准备，提高工作效率。</summary></entry><entry><title type="html">Developmentspecifications</title><link href="http://localhost:4000/2020/03/09/developmentSpecifications.html" rel="alternate" type="text/html" title="Developmentspecifications" /><published>2020-03-09T00:00:00+08:00</published><updated>2020-03-09T00:00:00+08:00</updated><id>http://localhost:4000/2020/03/09/developmentSpecifications</id><content type="html" xml:base="http://localhost:4000/2020/03/09/developmentSpecifications.html">&lt;h1 id=&quot;前端使用&quot;&gt;前端使用&lt;/h1&gt;
+
+&lt;h1 id=&quot;一html编码规范&quot;&gt;一、HTML编码规范&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;所有HTML代码均采用小写。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;声明属性一定要赋值，且用&lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;&quot;&lt;/code&gt;括起来，属性与属性之间保持一个空格的缩进。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;标签要成对出现，如果是单独不成对的标签，在标签最后添加&lt;code class=&quot;highlighter-rouge&quot;&gt;/&lt;/code&gt;来关闭，例如：&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;br /&amp;gt;&lt;/code&gt;。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;表现和结构分离，代码中尽量不涉及到任何表现元素，如:&lt;code class=&quot;highlighter-rouge&quot;&gt;style、font、border....&lt;/code&gt;，结构页面中只写入结构代码，样式代码写入到css文件中或页面的head区。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;不要使用&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;font&amp;gt;&lt;/code&gt;标签，用&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;span&amp;gt;&lt;/code&gt;代替。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;不要使用&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;b&amp;gt;&lt;/code&gt;，可以使用&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;代替。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;不要在&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;a&amp;gt;&lt;/code&gt;内使用&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;span&amp;gt;&lt;/code&gt;改变连接文字颜色。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;用&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;checkbox&amp;gt;&lt;/code&gt;时，必须用&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;label for=&quot;checkbox.id&quot;&amp;gt;&amp;lt;/label&amp;gt;&lt;/code&gt;把说明文字和&lt;code class=&quot;highlighter-rouge&quot;&gt;checkbox&lt;/code&gt;组合起来，这时文字的点击效果和&lt;code class=&quot;highlighter-rouge&quot;&gt;checkbox&lt;/code&gt;等同。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;在每个内容块的开始和结束处加入注释,例如：&lt;/p&gt;
+
+    &lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;&amp;lt;!--登录框 begin--&amp;gt;&lt;/span&gt;
+......
+&lt;span class=&quot;c&quot;&gt;&amp;lt;!--登录框 end--&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- 注意，不要再注释内容中加入“-”； --&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;HTML标签必须合理嵌套，并要有一定的层次感。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;二css书写规范&quot;&gt;二、CSS书写规范&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;尽可能的通过继承和层叠重用已有样式。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;根据新建样式的适应范围分为三级：全站级、频道级、页面级：&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;全站级：&lt;code class=&quot;highlighter-rouge&quot;&gt;global.css&lt;/code&gt; 这个是全局（如果要修改这个&lt;code class=&quot;highlighter-rouge&quot;&gt;css&lt;/code&gt;要测试整个网站）。&lt;/li&gt;
+      &lt;li&gt;频道级:文件存在在&lt;code class=&quot;highlighter-rouge&quot;&gt;css/&lt;/code&gt;相应目录下  （如：&lt;code class=&quot;highlighter-rouge&quot;&gt;zhekou\fanli&lt;/code&gt;等）。&lt;/li&gt;
+      &lt;li&gt;页面级：少量几个页面，写成&lt;code class=&quot;highlighter-rouge&quot;&gt;css&lt;/code&gt;文件，并做注释  如果只有仅在一个页面里使用，则可以放在&lt;code class=&quot;highlighter-rouge&quot;&gt;head&lt;/code&gt;头部&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;单条CSS规则的书写要求格式要求:&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;属性需要写在一行，需要在&lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;{&quot;&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;}&quot;&lt;/code&gt;前后加空格， 在属性的&lt;code class=&quot;highlighter-rouge&quot;&gt;;&lt;/code&gt;后也加空格。&lt;/p&gt;
+
+        &lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nc&quot;&gt;.selector&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;py&quot;&gt;property&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;py&quot;&gt;property&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;多个 selector每个占一行，如：&lt;/p&gt;
+
+        &lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nc&quot;&gt;.selector1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;nc&quot;&gt;.selector2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;nc&quot;&gt;.awlwxroe3&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;py&quot;&gt;property&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;py&quot;&gt;property&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;兼容多个浏览器，将标准属性写在前面，如：&lt;/p&gt;
+
+        &lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt;:100px&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt;:100px&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;_width&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt;:100px&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;将作用于不同模块的&lt;code class=&quot;highlighter-rouge&quot;&gt;CSS&lt;/code&gt;放在一起，一定要加注释&lt;/p&gt;
+
+    &lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;/*nav start*/&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;.....................&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;/*nav end*/&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;ID&lt;/code&gt;和&lt;code class=&quot;highlighter-rouge&quot;&gt;ClASS&lt;/code&gt;命名不要用缩写，单词用“_”分隔, 慎用&lt;code class=&quot;highlighter-rouge&quot;&gt;ID&lt;/code&gt;,应该多用&lt;code class=&quot;highlighter-rouge&quot;&gt;CLASS&lt;/code&gt;。如：&lt;code class=&quot;highlighter-rouge&quot;&gt;.nav_footer{}&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;推荐使用的&lt;code class=&quot;highlighter-rouge&quot;&gt;CLASS&lt;/code&gt;名:&lt;/p&gt;
+
+    &lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nc&quot;&gt;.on&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.active&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.selected&lt;/span&gt;   &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;表示状态：&lt;/span&gt;
+&lt;span class=&quot;nc&quot;&gt;.first&lt;/span&gt;&lt;span class=&quot;err&quot;&gt; &lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.last&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.main&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.side&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;表示位置：&lt;/span&gt;
+&lt;span class=&quot;nc&quot;&gt;.hd&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.bd&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.ft&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.col&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.section&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;表示结构：&lt;/span&gt;
+&lt;span class=&quot;nc&quot;&gt;.tb&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.frm&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.nav&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.list&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.item&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.tag&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.pic&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.info&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;err&quot;&gt; 通用元素：&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;推荐使用下面的&lt;code class=&quot;highlighter-rouge&quot;&gt;CSS&lt;/code&gt;方式:&lt;/p&gt;
+
+    &lt;table&gt;
+      &lt;thead&gt;
+        &lt;tr&gt;
+          &lt;th&gt;浏览器&lt;/th&gt;
+          &lt;th&gt;区别属性&lt;/th&gt;
+          &lt;th&gt;区别规则&lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/thead&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;IE6&lt;/td&gt;
+          &lt;td&gt;_property:value&lt;/td&gt;
+          &lt;td&gt;* html .selector{}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;IE6/IE7&lt;/td&gt;
+          &lt;td&gt;*property:value&lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;IE6/IE7/IE8&lt;/td&gt;
+          &lt;td&gt;property:value\9&lt;/td&gt;
+          &lt;td&gt;*:first-child+html .selector{}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;非IE6&lt;/td&gt;
+          &lt;td&gt;property//:value;&lt;/td&gt;
+          &lt;td&gt;html&amp;gt;body .selector{}&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;清除浮动用&lt;code class=&quot;highlighter-rouge&quot;&gt;global.css&lt;/code&gt;里的两种类 &lt;code class=&quot;highlighter-rouge&quot;&gt;clear &lt;/code&gt;和 &lt;code class=&quot;highlighter-rouge&quot;&gt;clear-fix&lt;/code&gt;。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;页面引用css的顺序，全站-》频道-》页面-》内联 。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;避免使用低效的选择器，如：&lt;/p&gt;
+
+    &lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;Ul&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;li&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
+&lt;span class=&quot;nf&quot;&gt;#footer&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;h3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;Ul&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;#top_blue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
+&lt;span class=&quot;nf&quot;&gt;#search&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;span&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;.submit&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;尽量避免使用&lt;code class=&quot;highlighter-rouge&quot;&gt; filter&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;不要直接修改标签的样式&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;不要在标签上直接写样式，如：&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;div style=”height:100px;”&amp;gt;&amp;lt;/div&amp;gt;&lt;/code&gt;。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;尽量不用 &lt;code class=&quot;highlighter-rouge&quot;&gt;expression&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;不要使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;@import url(1.css)&lt;/code&gt;;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;尽量不用 &lt;code class=&quot;highlighter-rouge&quot;&gt;！important    &lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;绝对不要在css中使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;*&lt;/code&gt;选择符 ` *{margin:0,padding:0;}`&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;三js代码&quot;&gt;三、JS代码&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;js代码分三级，公共级、频道级、页面级 （js文件名全为小写）;公共级：&lt;code class=&quot;highlighter-rouge&quot;&gt;js/global.js&lt;/code&gt;;频道级：&lt;code class=&quot;highlighter-rouge&quot;&gt;js/频道名/频道名.js&lt;/code&gt;；页面级：如果少可以用&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;script&amp;gt;&lt;/code&gt;放在页尾 ，如果非常多，也可以放在频道目录。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;变量命名规范：&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;常量以及全局变量必须全部使用大写字母，单词之间用下划线分隔，如：&lt;code class=&quot;highlighter-rouge&quot;&gt;var MMS_FRAME, LIMITE_TIME&lt;/code&gt;。&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;方法内变量使用多个单词组成复合词，首单词小写，其它字母大写，如：&lt;code class=&quot;highlighter-rouge&quot;&gt;arrSampleList  objSubmitBotton&lt;/code&gt;。&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;对于指定Dom对象的变量名，尽量使用elm、obj或elm、obj开头命名：&lt;/p&gt;
+
+        &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;objSubmitButton&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;btn_submit&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;getCheckElement&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
+	&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;obj&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getELementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//如果方法内部只有一个对象&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;对于指定字符串的变量名，尽量用str,或str开头，&lt;code class=&quot;highlighter-rouge&quot;&gt;var strMaxTips = ‘最大的提示信息’;&lt;/code&gt;。&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;对于指定数字的变量名，尽量使用num或num开头，&lt;code class=&quot;highlighter-rouge&quot;&gt;var numMaxcount = 1000;&lt;/code&gt;。&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;布尔值的变量名的命名前面加is,同理可以加 has,can,should，&lt;code class=&quot;highlighter-rouge&quot;&gt;Var isChecked, hasApple, canDoit;&lt;/code&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;循环变量使用 i,j,k&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;用于返回结果变量用result 或 ret开头的变量&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;临时变量为temp,捕捉变量为e&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;数组变量在单词前加arr，&lt;code class=&quot;highlighter-rouge&quot;&gt;var arrCity = [‘北京’,‘上海’];&lt;/code&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;避免使用否定的变量名称，例如：&lt;code class=&quot;highlighter-rouge&quot;&gt;isNotError, isNotFound&lt;/code&gt;&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;方法命名规范：&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;方法命名使用多个单词组成复合词，首单词小写，其它单词首字母大写。&lt;/li&gt;
+      &lt;li&gt;方法命名的第一个单词尽量使用动词。例如：get/set  add/remove  create/destroy   start/stop   insert/delete  begin/end等&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;类或组件的命名规范：&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;类名称必须为名词并使用骆峰命名法，如：&lt;code class=&quot;highlighter-rouge&quot;&gt;Account , EventHandler&lt;/code&gt;。&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;类内的常量必须在对象（类）的前部声名，或枚举变量的前部声名，全用大写&lt;/p&gt;
+
+        &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;NodeTypes&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;na&quot;&gt;PI&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;3.1415&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+	&lt;span class=&quot;na&quot;&gt;ELEMENT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;方法的命名为一个动词或动词短语  如：&lt;code class=&quot;highlighter-rouge&quot;&gt;obj.getElement(){}&lt;/code&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;类的公有变量 ，  类的私有变量 命名规范：&lt;/p&gt;
+
+        &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt;&lt;span class=&quot;err&quot;&gt; &lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;MyClass&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;myName&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;robinName&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt; &lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//公有变量&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+      
+&lt;span class=&quot;nx&quot;&gt;MyClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;prototype&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getName&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;_thisName&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;abc&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//私有变量前面加 ”_”&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;err&quot;&gt; &lt;/span&gt;
+      
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;类的继承的方法：&lt;/p&gt;
+
+        &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;CatMyClass&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;  &lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//红色为基类的名称&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt; &lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;myClass&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;MyClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt; &lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;myClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt; &lt;/span&gt; &lt;span class=&quot;err&quot;&gt;……&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;变量的定义与使用：&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;变量必须先定义后使用&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;声明变量时要初始化 null&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;变量应该放在和他有关系的代码中，不要把变量放在最上面，下面隔很远&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;变量具有最小的声明周期 ，执行完方法  内存就释放&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;应尽量避免复杂条件表达式：&lt;/p&gt;
+
+        &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;		&lt;span class=&quot;c1&quot;&gt;//如：不好的方法&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt;       &lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;b&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;b&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt; &lt;span class=&quot;err&quot;&gt; &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;//有些复杂了    }&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt;       &lt;/span&gt; &lt;span class=&quot;err&quot;&gt;好的方法&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt;       &lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;isOk&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;b&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;b&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt;       &lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;isOk&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;空白的使用规范：&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;逗号后面跟一个空格：&lt;code class=&quot;highlighter-rouge&quot;&gt;var foo = function(name1, name2, name3){}&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;冒号的前后各放一个空格：&lt;code class=&quot;highlighter-rouge&quot;&gt;var strPosition = (a&amp;gt;b) ? 'top' : 'botton';&lt;/code&gt;。&lt;/li&gt;
+      &lt;li&gt;for语句的分号后面跟一个空格：&lt;code class=&quot;highlighter-rouge&quot;&gt;for(i = 0; i &amp;lt; 10; i++ ){}&lt;/code&gt;。&lt;/li&gt;
+      &lt;li&gt;分号前永远不要有空格：&lt;code class=&quot;highlighter-rouge&quot;&gt;var city = &quot;shanghai&quot;;&lt;/code&gt;。&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;js的一些建议：&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;使用{}来代替 new object(); 用[] 来代替new Array();&lt;/p&gt;
+
+        &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;arrCity&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;北京&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;上海&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;深圳&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;  &lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//不建议&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;arrCity&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;北京&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;上海&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;深圳&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;&lt;span class=&quot;err&quot;&gt; &lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//建议&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;objPerson&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;  &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;//不建议&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;objPerson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;robin&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt; &lt;/span&gt; 
+&lt;span class=&quot;nx&quot;&gt;objPerson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;sex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;man&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;objPerson&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;robin&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;sex&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;man&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;恒等运算和相等运算：&lt;/p&gt;
+
+        &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;err&quot;&gt; &lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//true&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;err&quot;&gt; &lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//false&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;===&lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;undefined&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;err&quot;&gt; &lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//true&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Dom缓存已经访问过的元素。&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;离线更新节点。&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;如果拼字符串，不要用字符串相加，用数组来处理：&lt;/p&gt;
+
+        &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;//如：不要这样做&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;str&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;lt;div class=&quot;myclass&quot;&amp;gt;&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt;                &lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;这些是内容&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt;                &lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt;&lt;span class=&quot;err&quot;&gt; &lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;str&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;lt;div class=&quot;myclass&quot;&amp;gt;&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;注释：&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;全局变量要有注释&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;整个方法也要加一下注释：&lt;/p&gt;
+
+        &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// 单行注释&lt;/span&gt;
+&lt;span class=&quot;cm&quot;&gt;/*  多行注释 */&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;四提示文字&quot;&gt;四、提示文字&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;提示文字可以分为 鼠标移入提示、输入框备注、操作反馈、功能提醒，系统异常；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;鼠标移入提示实现包含 alt、titile、tips（使用不多）；&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;alt：图片的提示信息，主要是为了SEO优化；
+title：主要用于文字、操作的解释，在大多数情况下用于段落显示不全的提示信息；
+tips：对信息的对话云式的提示，用作在当前区域的提示；&lt;/p&gt;
+
+      &lt;p&gt;注： alt和title会在几秒中后消失，对于比较重要的提示建议用tips或者用JS行为来控制提示信息。&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;备注主要是 对表单输入框的输入提醒，显示在输入框右边，可以分为点击显示和默认显示；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;操作反馈提示是在操作表单时产生的提示文字或提示页面；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;表单输入框在输入过程中发生错误，在输入框下面显示提示文字；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;提交表单时，某输入框输入错误，在输入框下面显示提示文字；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;表单提交，操作结果根据成功、失败、系统异常转入对应提示页面；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;特别情况下，也可以把将提示信息显示在操作按钮右边或上面；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;功能提醒是对功能操作的注意点提示，放在操作表单底部；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;系统异常是在功能执行出现异常时提示给用户。&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;注：操作提示不能使用alert 弹框&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;五操作&quot;&gt;五、操作&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;所有操作步骤不能超过3步，并且不能有双向选择；&lt;/li&gt;
+  &lt;li&gt;操作步骤超过1步的时候需要有流程图提示，让用户知道下一步操作的内容。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;六seo相关&quot;&gt;六、SEO相关&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;需要做SEO的页面网址目录层次不要超过4层，网址需要做静态化，目录命名以小写英文字母、下划线组成；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;网页title，keywords ，description设定（需要确定1个人定义这些内容告知技术）；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;减少css，js文件引用个数，各控制在2-3个；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;图片标签需要加入alt属性，不需要和title同时使用，需要时可以把title加到A标签；&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;注：规范的HTML代码width及height标签也是需要的。title大多数情况下用于段落显   示不全的提示信息。&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;页面中的js代码能放到页面末尾的放到页面末尾；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;页面html不能用table，改用div实现，并做到冗余代码的清除，保证hmtl代码简洁，style的代码尽量放入css文件；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;网页关键字需要用strong、h1~h6这样的标签，h1标签一个页面里面最多出现一次 ，每个页面中至少应该出现1次这样的标签。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;七其他&quot;&gt;七、其他&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;网站可用色系demo准备&lt;/li&gt;
+  &lt;li&gt;按钮样式demo准备&lt;/li&gt;
+  &lt;li&gt;表单文本框、数据列表页样式demo准备&lt;/li&gt;
+  &lt;li&gt;链接文字样式准备，设定多套链接样式供不同频道，不同内容使用&lt;/li&gt;
+  &lt;li&gt;操作提示页面demo准备 ,可以分为操作成功、失败、系统异常3种操作提示页面demo准备 ,可以分为操作成功、失败、系统异常3种。&lt;/li&gt;
+  &lt;li&gt;操作提示文字颜色准备，可以分为功能提醒、输入框备注、警告、错误、系统异常5种。&lt;/li&gt;
+  &lt;li&gt;准备404,500错误页提示页面。&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">前端使用</summary></entry></feed>
