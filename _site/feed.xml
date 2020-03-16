@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-13T17:04:24+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">2云随笔</title><subtitle>记录美好记录美好记录美好记录美好记录美好记录美好记录美好记录美好记录美好。</subtitle><entry><title type="html">3.5-3.13工作总结</title><link href="http://localhost:4000/%E5%BC%A0%E4%BA%91/2020/03/13/workSummarymarkdown.html" rel="alternate" type="text/html" title="3.5-3.13工作总结" /><published>2020-03-13T16:12:26+08:00</published><updated>2020-03-13T16:12:26+08:00</updated><id>http://localhost:4000/%E5%BC%A0%E4%BA%91/2020/03/13/workSummarymarkdown</id><content type="html" xml:base="http://localhost:4000/%E5%BC%A0%E4%BA%91/2020/03/13/workSummarymarkdown.html">&lt;h4 id=&quot;本周实为技术提升为疫情结束后工作做准备提高工作效率&quot;&gt;本周实为技术提升，为疫情结束后工作做准备，提高工作效率。&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-13T17:28:19+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">2云随笔</title><subtitle>记录美好记录美好记录美好记录美好记录美好记录美好记录美好记录美好记录美好。</subtitle><entry><title type="html">3.5-3.13工作总结</title><link href="http://localhost:4000/%E5%BC%A0%E4%BA%91/2020/03/13/workSummary.html" rel="alternate" type="text/html" title="3.5-3.13工作总结" /><published>2020-03-13T16:12:26+08:00</published><updated>2020-03-13T16:12:26+08:00</updated><id>http://localhost:4000/%E5%BC%A0%E4%BA%91/2020/03/13/workSummary</id><content type="html" xml:base="http://localhost:4000/%E5%BC%A0%E4%BA%91/2020/03/13/workSummary.html">&lt;h4 id=&quot;本周实为技术提升为疫情结束后工作做准备提高工作效率&quot;&gt;本周实为技术提升，为疫情结束后工作做准备，提高工作效率。&lt;/h4&gt;
 
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;工作任务&quot;&gt;工作任务&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;编写前端开发规范文档；&lt;/li&gt;
+  &lt;li&gt;编写&lt;a href=&quot;https://gaofeng0527.github.io/html/help/编码规范/前端使用.html&quot;&gt;前端开发规范文档&lt;/a&gt;；&lt;/li&gt;
   &lt;li&gt;开发多终端自适应网站模板
     &lt;ul&gt;
       &lt;li&gt;一套官网模版；&lt;/li&gt;
